@@ -1481,6 +1481,46 @@ h3 {
   background-image: url(../img/mathtrix.png);
 }
 
+.agon_bg {
+  background-image: url(../img/performer/agon.png);
+}
+
+.apollo_bg {
+  background-image: url(../img/performer/apollo.png);
+}
+
+.auctus_bg {
+  background-image: url(../img/performer/auctus.png);
+}
+
+.enigmata_bg {
+  background-image: url(../img/performer/enigmata.png);
+}
+
+.mask_a_raid_bg {
+  background-image: url(../img/performer/mask-a-raid.png);
+}
+
+.mercatus_bg {
+  background-image: url(../img/performer/mercatus.png);
+}
+
+.nemesis_bg {
+  background-image: url(../img/performer/nemesis.png);
+}
+
+.saturn_bg {
+  background-image: url(../img/performer/saturn.png);
+}
+
+.sonetto_bg {
+  background-image: url(../img/performer/sonetto.png);
+}
+
+.sum_it_up_bg {
+  background-image: url(../img/performer/sum-it-up.png);
+}
+
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
 .slider_bg_2 {
   background-image: url(../img/mathtrix.png);
@@ -2019,8 +2059,8 @@ h3 {
 }
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
-.bradcam_bg_1 {
-  background-image: url(../img/banner/bradcam_1.png);
+.agon {
+  background-image: url(../img/performer/agon.png);
 }
 
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */

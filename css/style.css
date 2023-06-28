@@ -1525,6 +1525,42 @@ h3 {
   background-image: url(../img/performer/breaking-barriers.png);
 }
 
+.cognitoria_bg {
+  background-image: url(../img/performer/cognitoria.png);
+}
+
+.forum_infinitum_bg {
+  background-image: url(../img/performer/forum-infinitum.png);
+}
+
+.hacksquads_bg {
+  background-image: url(../img/performer/hacksquads.png);
+}
+
+.mathletics_bg {
+  background-image: url(../img/performer/mathletics.png);
+}
+
+.mathopoly_bg {
+  background-image: url(../img/performer/mathopoly.png);
+}
+
+.mystifiezzera_bg {
+  background-image: url(../img/performer/mystifiezzera.png);
+}
+
+.operation_breakout_bg {
+  background-image: url(../img/performer/operation-breakout.png);
+}
+
+.picstraction_bg {
+  background-image: url(../img/performer/picstraction.png);
+}
+
+.rhythmatics_bg {
+  background-image: url(../img/performer/rhythmatics.png);
+}
+
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
 .slider_bg_2 {
   background-image: url(../img/mathtrix.png);

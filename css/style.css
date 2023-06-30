@@ -2682,6 +2682,10 @@ h3 {
   margin-bottom: 41px;
 }
 
+.footer .footer_top .footer_widget a{
+  color: #fff;
+}
+
 /* line 34, ../../Arafath/CL/December/236. Event-02/HTML/scss/_footer.scss */
 .footer .copy-right_text {
   padding-bottom: 45px;
